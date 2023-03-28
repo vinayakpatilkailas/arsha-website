@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.watch{
+    margin-top: 11px;
+    font-size: 25px;
+}
+.watch:hover{
+    color: blanchedalmond;
+    cursor: pointer;
+}
